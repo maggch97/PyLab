@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PyLab/798188df4c75437b72c0.worker.js.LICENSE.txt"
   },
   {
-    "revision": "86d03be12c772cc4a73b8488f1f873f3",
+    "revision": "98233dac847dfc5dbdb366d0812917f6",
     "url": "/PyLab/index.html"
   },
   {
-    "revision": "6cb9d556f59ab852affe",
+    "revision": "2625497370af041447b8",
     "url": "/PyLab/static/css/main.f9bd5073.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PyLab/static/js/154.ac24f4bc.chunk.js"
   },
   {
-    "revision": "6cb9d556f59ab852affe",
-    "url": "/PyLab/static/js/main.cf553361.chunk.js"
+    "revision": "2625497370af041447b8",
+    "url": "/PyLab/static/js/main.675c2317.chunk.js"
   },
   {
     "revision": "3bf950bb12c795bbcf51",
